@@ -17,4 +17,5 @@ REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
 - Done? Format data.
 
 # Costume Rom For Mi CC9E
-Get all the latest updates here: Soon
+Get all the latest updates [here](
+https://github.com/N1709/Laurus_Update/releases)
