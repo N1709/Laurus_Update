@@ -15,7 +15,7 @@ REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
 - **Fastboot** :
 - Unpack the ROM
 - Extract the ROM, then go to the extracted folder. If there's a SYSTEM folder, just go there.
-- flash_all.bat for (Windows) and flash_all.sh for (Linux)
+- "flash_all"
 - If you have installed the ROM via fastboot, now you need to enter recovery to format the data.
 
 - **Recovery** :
