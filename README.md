@@ -23,6 +23,18 @@ REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
 - Flash : NameRom.zip
 - Done? Format data.
 
+- **Repartition** :
+- Flash file repartition.
+- Reboot recovery.
+- Format Data.
+- Reboot recovery
+
+- **Restore partition** :
+- Flash file restore.
+- Reboot recovery
+- Wipe system and format data
+- Reboot recovery
+
 # Costume Rom For Mi CC9E
 Get all the latest updates [here](
 https://github.com/N1709/Laurus_Update/releases)
