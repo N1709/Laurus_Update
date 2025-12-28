@@ -1,4 +1,4 @@
-# Costume Rom Xioami MI CC9E (LAURUS)
+# Costume Rom Xioami MI CC9E (LAURUS) And MI A3 (LAUREL_SPROUT)
 
 ![Xioami-CC9e-1](https://github.com/user-attachments/assets/603ae80a-2e8e-447d-8aea-41c1ab8f2284)
 
@@ -18,6 +18,8 @@ REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
 - "flash_all"
 - If you have installed the ROM via fastboot, now you need to enter recovery to format the data.
 
+# For A Partition
+
 - **Recovery** :
 - Wipe : System, Cache, Data.
 - Flash : NameRom.zip
@@ -35,6 +37,6 @@ REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
 - Wipe system and format data
 - Reboot recovery
 
-# Costume Rom For Mi CC9E
+# Costume Rom For Mi CC9E And MI A3
 Get all the latest updates [here](
 https://github.com/N1709/Laurus_Update/releases)
