@@ -1,4 +1,4 @@
-# Costum Rom Xioami MI CC9E (LAURUS) 
+# Custom Rom Xioami MI CC9E (LAURUS) 
 
 ![Xioami-CC9e-1](https://github.com/user-attachments/assets/603ae80a-2e8e-447d-8aea-41c1ab8f2284)
 
@@ -35,6 +35,6 @@ REMEMBER WE ONLY BUILD OR PORT FOR THIS DEVICE!!
 - Wipe system and format data
 - Reboot recovery
 
-# Costum Rom For Mi CC9E 
+# Custom Rom For Mi CC9E 
 Get all the latest updates [here](
 https://github.com/N1709/Laurus_Update/releases)
